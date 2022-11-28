@@ -636,6 +636,7 @@ class Calendar(NylasAPIObject):
         "read_only",
         "is_primary",
         "object",
+        "timezone"
     ]
     collection_name = "calendars"
 
